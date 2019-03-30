@@ -1,4 +1,4 @@
 import  './styles/style.css';
-import script from './script';
+import script from './script.js';
 
 script();
